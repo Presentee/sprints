@@ -1,12 +1,15 @@
 # Sprint Progress Report 
-### Date:   
-### Group name: Presentee
-### Group members: 
-### Sprint #   
+
+| Date |                    |
+| Group name: | Presentee |
+| Group members: | Alex, Chris, Speedy, Leo |
+| Sprint # |           |  
  
 1. List the tasks done by each member 
 
 | Member name | Tasks worked on during sprint |
+|             |                               |
+|             |                               |
 |-------------|-------------------------------|
 |             |                               |
 |             |                               |
@@ -24,33 +27,7 @@
  
  
  
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
+
  
 2. What went well during this sprint? 
  
