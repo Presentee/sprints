@@ -2,25 +2,19 @@
 
 | Date |  Todays Date  |
 |------|---------------|
-| Group name: | Presentee |
-|-------------|-----------|
-| Group members: | Alex, Chris, Speedy, Leo |
-|----------------|--------------------------|
-| Sprint # | (number)  | 
-|----------|-----------| 
+| Group name | Presentee |
+| Group members | Alex, Chris, Speedy, Leo |
+| Sprint # | (number)  |
  
 1. List the tasks done by each member 
 
 | Member name | Tasks worked on during sprint |
 |-------------|-------------------------------|
 | Alex        | Tasks                         |
-|-------------|-------------------------------|
 | Chris       | Tasks                         |
-|-------------|-------------------------------|
 | Leo         | Tasks                         |
-|-------------|-------------------------------|
 | Speedy      | Tasks                         |
-|-------------|-------------------------------|
+
   
  
  
