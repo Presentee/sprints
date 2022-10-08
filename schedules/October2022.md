@@ -1,7 +1,6 @@
 # October 2022
 
-- Maybe best ways will to be to be able to post some schedules
-that everyone can accomodate to then tune into the time on the given date.
+- Template of how we should go about scheduling a date and time for a meeting?
 
 #### Week of October 02-08
 | Group member | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
@@ -12,6 +11,20 @@ that everyone can accomodate to then tune into the time on the given date.
 | Leo | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | Speedy | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 
+- once we get a day that we can set up then I thought we could sprecify what time we would want to set in a table like this:
+
+| meeting time and date |
+| --------------------- |
+| Date | (date) |
+| time | (time) |
+
+| meeting notes |
+| ------------- |
+| some notes about the meeting 
+ and maybe a link to the meeting notes |
+
+
+--------------------------------
 #### Week of October 09-15
 | Group member | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | ------- | ------- | ------ | ----- | ----- | ---- | --- | ---- |
@@ -21,6 +34,17 @@ that everyone can accomodate to then tune into the time on the given date.
 | Leo | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | Speedy | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 
+| meeting time and date |
+| --------------------- |
+| Date | (date) |
+| time | (time) |
+
+| meeting notes |
+| ------------- |
+| some notes about the meeting 
+ and maybe a link to the meeting notes |
+
+-------------------------------------
 #### Week of October 16-22
 | Group member | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | ------- | ------- | ------ | ----- | ----- | ---- | --- | ---- |
@@ -30,6 +54,17 @@ that everyone can accomodate to then tune into the time on the given date.
 | Leo | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | Speedy | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 
+| meeting time and date |
+| --------------------- |
+| Date | (date) |
+| time | (time) |
+
+| meeting notes |
+| ------------- |
+| some notes about the meeting 
+ and maybe a link to the meeting notes |
+
+---------------------------------------
 #### Week of October 23-29
 | Group member | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | ------- | ------- | ------ | ----- | ----- | ---- | --- | ---- |
@@ -38,3 +73,13 @@ that everyone can accomodate to then tune into the time on the given date.
 | Chris | [ ] | [x] | [x] | [ ] | [x] | [ ] | [ ] |
 | Leo | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | Speedy | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+
+| meeting time and date |
+| --------------------- |
+| Date | (date) |
+| time | (time) |
+
+| meeting notes |
+| ------------- |
+| some notes about the meeting 
+ and maybe a link to the meeting notes |
