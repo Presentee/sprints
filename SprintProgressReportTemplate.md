@@ -3,7 +3,7 @@
 | Date |  Todays Date  |
 |------|---------------|
 | Group name | Presentee |
-| Group members | Alex, Chris, Speedy, Leo |
+| Group members | Alex, Chris, Mohamed, Leo |
 | Sprint # | (number)  |
  
 1. List the tasks done by each member 
@@ -13,7 +13,7 @@
 | Alex        | Tasks                         |
 | Chris       | Tasks                         |
 | Leo         | Tasks                         |
-| Speedy      | Tasks                         |
+| Mohamed     | Tasks                         |
 
   
  
