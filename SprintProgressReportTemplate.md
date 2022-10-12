@@ -32,6 +32,4 @@ We did not have a set time to meet together and discuss our plans and how we are
  
 4. What are the next action items (for the next sprint)? 
 
-      We can start by planning and preparing some user stories that would be made.
-      
-      Start a List for the features that we wanted to Backlog.
+We can start by planning and preparing some user stories that would be made into features.Then from those user stories we can compile a List for the features that we wanted to Backlog.
