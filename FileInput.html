@@ -1,0 +1,33 @@
+<title>Presentee file input</title>
+<link rel="stylesheet" href="/assets/dcode.css">
+<link rel="shortcut icon" href="/assets/favicon.ico">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<body>
+    <h1>Presentee file input</h1>
+    <form class="form" id="myForm">
+        <input type="file" name="inpFile" id="inpFile"><br>
+        <button type="submit">Upload File</button>
+    </form>
+    <script>
+        const myForm = document.getElementById("myForm");
+        const inpFile = document.getElementById("inpFile");
+
+        myForm.addEventListener("submit", e => {
+            e.preventDefault();
+
+            const endpoint = "upload.php";
+            const formData = new FormData();
+
+            console.log(inpFile.files);
+
+            formData.append("inpFile", inpFile.files[0])
+
+            fetch(endpoint, {
+                method: "post",
+                body: formData
+            }).catch(console.error);
+
+        })
+    </script>
+</body>
